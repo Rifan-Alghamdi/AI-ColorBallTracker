@@ -42,6 +42,11 @@ Run the script:
 python marble_tracker.py
 💡 Press Q to quit the video window anytime.
 
+## 🎥 Output
+ • The video is processed and saved as output.avi
+ • Bounding boxes are drawn around detected colored balls
+ • A screenshot of the result is saved as result.png
+
 ## 💻 Code
 
 import cv2
@@ -100,8 +105,3 @@ while True:
 cap.release()
 out.release()
 cv2.destroyAllWindows()
-
-## 🎥 Output
- • The video is processed and saved as output.avi
- • Bounding boxes are drawn around detected colored balls
- • A screenshot of the result is saved as result.png
