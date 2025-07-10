@@ -1,4 +1,4 @@
-AI Task 2 – Color Ball Tracker using OpenCV
+ Color Ball Tracker using OpenCV
 
 ![Preview](result.png)
 
