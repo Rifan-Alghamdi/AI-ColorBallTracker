@@ -1,4 +1,4 @@
-Color Ball Tracker using OpenCV
+## Color Ball Tracker using OpenCV
 
 ![Preview](output.gif)
 
