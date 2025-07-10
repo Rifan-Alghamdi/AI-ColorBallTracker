@@ -1,6 +1,6 @@
  Color Ball Tracker using OpenCV
 
-![Preview](result.png)
+![Preview](output.gif)
 
 ## 📝 Description
 This project uses Python and OpenCV to detect and track multiple colored balls in a prerecorded video.  
