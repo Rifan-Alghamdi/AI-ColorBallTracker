@@ -1,6 +1,6 @@
 AI Task 2 – Color Ball Tracker using OpenCV
 
-![Result Preview](result.png)
+![Result Preview](output.avi)
 
 ## 📝 Description
 This project uses Python and OpenCV to detect and track multiple colored balls in a prerecorded video.  
